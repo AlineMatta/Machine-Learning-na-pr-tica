@@ -1,6 +1,7 @@
-# Machine-Learning-na-pr-tica
+# Machine-Learning-na-prática
 
 Machine Learning na prática - Lab
+Bootcamp Azure
 
 Passo a Passo de como criar uma conta no portal do Microsoft Azure
 
